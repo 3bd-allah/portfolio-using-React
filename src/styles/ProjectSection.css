@@ -1,0 +1,15 @@
+.ProjectSection{
+    height:100% ;
+    padding: 30px;
+    background-color:azure;
+
+}
+.card:hover {
+    box-shadow:7px 7px 10px 5px gray   ;
+    transform-origin: 10px 10px;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition:all .5s ease;
+  
+}
+

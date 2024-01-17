@@ -1,0 +1,36 @@
+.ContactMe{
+    height: 100%;
+    background-color: #1A202C;
+}
+
+form{
+    width:30vw;
+    margin: 20px;
+    /* display: flex; */
+}
+legend{
+    margin: 20px;
+    float: left;
+}
+ label {
+    /* display: block; */
+    /* float: inline-start; */
+    margin: 5px;
+    font-weight: 500;
+    font-size: large;
+}
+
+ input ,textarea , select {
+    /* width: 100%; */
+    margin-bottom: 3px;
+    margin-left: 1rem;
+    border-radius: 5px;
+}
+
+.field{
+    margin-bottom: 15px ;
+}
+
+option{
+    color: black;
+}
